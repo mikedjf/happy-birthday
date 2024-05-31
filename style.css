@@ -1,0 +1,133 @@
+body {
+    /*background-color: #a45ba0;
+    background-color: #f0e7e2;
+    background-color: #5b465b;
+    background-color: #e2e07f;
+    background-color: #e0cf42;
+    background-color: #c08dc1;
+    background-color: #f0efa7;
+
+    background-color: #61d9a4;
+    background-color: #abe2c4;
+    background-color: #c08dc1;
+    background-color: #f0e7e2;
+    background-color: #f0efa7;
+    background-color: #b798b8;*/
+    background-color: #edc7ee;
+
+
+    /*color: #413141;*/
+    color: #523052;
+    font-family: "Lato", sans-serif;
+}
+
+a {
+    color: #523052;
+}
+
+.zeyada-regular {
+    font-family: "Zeyada", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.zeyada-lighter {
+    font-family: "Zeyada", cursive;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.zeyada-heavier {
+    font-family: "Zeyada", cursive;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.large-text {
+    font-size: 100;
+}
+
+.lato-thin {
+    font-family: "Lato", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.lato-thin-italic {
+    font-family: "Lato", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.lato-light {
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.lato-light-italic {
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.lato-regular {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.lato-regular-italic {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.lato-bold {
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.lato-bold-italic {
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.lato-black {
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.lato-black-italic {
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}
+
+* {
+    overflow: hidden !important;
+}
+
+html {
+    overflow: scroll !important;
+}
+
+iframe#reaction::-webkit-scrollbar {
+    display: none;
+}
+
+.birthday-picture {
+    border-radius: 4%;
+    /*width: 150px;
+    height: 150px;*/
+    /* box-shadow: 0 4px 6px 0 rgba(34, 60, 80, .75); */
+    box-shadow: -2px 4px 6px 0 rgba(162, 170, 212, .75);
+    transition: all ease-in-out .2s;
+}
+
+.birthday-picture:hover {
+    box-shadow: -6px 12px 18px 0 rgba(162, 170, 212, .75);
+}
